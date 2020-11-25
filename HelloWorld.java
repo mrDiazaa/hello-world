@@ -7,6 +7,7 @@ public class HelloWorld {
 		// Beginning program to print Hello World
 		System.out.println("Hello World!");
 		System.out.println("Adding another HelloWorld line");
+		System.out.println("Adding another HelloWorld line");
 
 	}
 
